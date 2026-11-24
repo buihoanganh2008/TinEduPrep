@@ -1,0 +1,174 @@
+[
+  {
+    "id": "general-public-employee",
+    "category": "general",
+    "title": "Nền tảng pháp luật về viên chức",
+    "summary": "Các khái niệm, quyền, nghĩa vụ và nguyên tắc làm việc của viên chức.",
+    "estimatedMinutes": 18,
+    "sections": [
+      {
+        "id": "general-public-employee-1",
+        "title": "Khái niệm cần nhớ",
+        "body": "Viên chức làm việc tại đơn vị sự nghiệp công lập theo vị trí việc làm và hợp đồng làm việc. Khi ôn tập, cần phân biệt viên chức với công chức, người lao động hợp đồng và giáo viên thỉnh giảng.",
+        "keyPoints": ["Vị trí việc làm", "Hợp đồng làm việc", "Đơn vị sự nghiệp công lập"]
+      },
+      {
+        "id": "general-public-employee-2",
+        "title": "Quyền và nghĩa vụ",
+        "body": "Tập trung vào nghĩa vụ phục vụ Nhân dân, chấp hành pháp luật, giữ gìn phẩm chất, danh dự, uy tín nghề nghiệp và thực hiện nhiệm vụ được giao.",
+        "keyPoints": ["Tuân thủ pháp luật", "Bảo vệ bí mật nhà nước", "Chịu trách nhiệm về nhiệm vụ"]
+      },
+      {
+        "id": "general-public-employee-3",
+        "title": "Cách học hiệu quả",
+        "body": "Mỗi quy định nên được học theo ba lớp: từ khóa pháp lý, tình huống áp dụng và điểm dễ nhầm với quy định khác.",
+        "keyPoints": ["Học theo từ khóa", "Đối chiếu tình huống", "Ghi chú điểm dễ nhầm"]
+      }
+    ],
+    "source": "Nghị định 115/2020/NĐ-CP và văn bản sửa đổi, bổ sung"
+  },
+  {
+    "id": "general-recruitment",
+    "category": "general",
+    "title": "Quy trình tuyển dụng và tập sự",
+    "summary": "Các bước cần theo dõi từ thông báo tuyển dụng đến công nhận kết quả.",
+    "estimatedMinutes": 15,
+    "sections": [
+      {
+        "id": "general-recruitment-1",
+        "title": "Thông tin phải kiểm tra",
+        "body": "Khi có thông báo tuyển dụng, cần kiểm tra vị trí việc làm, số lượng, tiêu chuẩn, hồ sơ, thời hạn, hình thức và nội dung vòng 2.",
+        "keyPoints": ["Vị trí và chỉ tiêu", "Điều kiện dự tuyển", "Thời hạn nộp hồ sơ"]
+      },
+      {
+        "id": "general-recruitment-2",
+        "title": "Chuẩn bị hồ sơ",
+        "body": "Chuẩn bị văn bằng, bảng điểm, giấy tờ cá nhân và các minh chứng theo đúng yêu cầu của thông báo chính thức. Không dùng tài liệu truyền miệng thay cho thông báo của cơ quan tuyển dụng.",
+        "keyPoints": ["Đọc đúng thông báo", "Kiểm tra bản sao", "Lưu mốc thời gian"]
+      }
+    ],
+    "source": "Thông báo tuyển dụng của cơ quan có thẩm quyền"
+  },
+  {
+    "id": "pedagogy-lesson-plan",
+    "category": "pedagogy",
+    "title": "Thiết kế kế hoạch bài dạy",
+    "summary": "Cách chuyển yêu cầu cần đạt thành chuỗi hoạt động dạy học rõ ràng.",
+    "estimatedMinutes": 22,
+    "sections": [
+      {
+        "id": "pedagogy-lesson-plan-1",
+        "title": "Bắt đầu từ yêu cầu cần đạt",
+        "body": "Xác định học sinh cần biết gì, làm được gì và thể hiện phẩm chất hoặc năng lực nào sau bài học. Mục tiêu phải quan sát và đánh giá được.",
+        "keyPoints": ["Kiến thức", "Kỹ năng", "Phẩm chất và năng lực"]
+      },
+      {
+        "id": "pedagogy-lesson-plan-2",
+        "title": "Cấu trúc một hoạt động",
+        "body": "Mỗi hoạt động nên có nhiệm vụ, sản phẩm, cách tổ chức, thời lượng và tiêu chí đánh giá. Hoạt động cần tạo cơ hội để học sinh tự làm, trao đổi và nhận phản hồi.",
+        "keyPoints": ["Nhiệm vụ rõ", "Sản phẩm cụ thể", "Tiêu chí đánh giá"]
+      },
+      {
+        "id": "pedagogy-lesson-plan-3",
+        "title": "Kết thúc và đánh giá",
+        "body": "Dành thời gian củng cố, kết nối với tình huống thực tế và giao nhiệm vụ tiếp nối. Đánh giá nên kết hợp quan sát, sản phẩm và câu hỏi ngắn.",
+        "keyPoints": ["Củng cố", "Vận dụng", "Phản hồi"]
+      }
+    ],
+    "source": "Chương trình giáo dục phổ thông 2018"
+  },
+  {
+    "id": "pedagogy-classroom",
+    "category": "pedagogy",
+    "title": "Xử lý tình huống sư phạm",
+    "summary": "Khung trả lời bình tĩnh, tôn trọng học sinh và bám mục tiêu giáo dục.",
+    "estimatedMinutes": 16,
+    "sections": [
+      {
+        "id": "pedagogy-classroom-1",
+        "title": "Bốn bước xử lý",
+        "body": "Xác định vấn đề, bảo đảm an toàn và cảm xúc, trao đổi với học sinh bằng câu hỏi mở, sau đó thống nhất giải pháp và theo dõi kết quả.",
+        "keyPoints": ["Nhận diện", "Ổn định", "Trao đổi", "Theo dõi"]
+      },
+      {
+        "id": "pedagogy-classroom-2",
+        "title": "Điều cần tránh",
+        "body": "Không kết luận vội, không làm học sinh mất mặt trước tập thể và không xử lý vượt quá thẩm quyền. Khi cần, phối hợp giáo viên chủ nhiệm, phụ huynh và nhà trường.",
+        "keyPoints": ["Không quy chụp", "Không bêu tên", "Phối hợp đúng kênh"]
+      }
+    ],
+    "source": "Nghiệp vụ sư phạm và quy tắc ứng xử trong cơ sở giáo dục"
+  },
+  {
+    "id": "informatics-computational-thinking",
+    "category": "informatics",
+    "title": "Tư duy máy tính và thuật toán",
+    "summary": "Phân rã bài toán, nhận dạng mẫu, trừu tượng hóa và thiết kế thuật toán.",
+    "estimatedMinutes": 20,
+    "sections": [
+      {
+        "id": "informatics-computational-thinking-1",
+        "title": "Bốn thành phần cốt lõi",
+        "body": "Tư duy máy tính thường được trình bày qua phân rã, nhận dạng mẫu, trừu tượng hóa và thiết kế thuật toán.",
+        "keyPoints": ["Phân rã", "Nhận dạng mẫu", "Trừu tượng hóa", "Thuật toán"]
+      },
+      {
+        "id": "informatics-computational-thinking-2",
+        "title": "Cách trình bày thuật toán",
+        "body": "Có thể dùng ngôn ngữ tự nhiên, sơ đồ khối hoặc mã giả. Khi dạy học, nên bắt đầu từ ví dụ gần gũi rồi yêu cầu học sinh kiểm thử với dữ liệu khác nhau.",
+        "keyPoints": ["Mã giả", "Sơ đồ khối", "Kiểm thử"]
+      }
+    ],
+    "source": "Chương trình môn Tin học trong Chương trình GDPT 2018"
+  },
+  {
+    "id": "informatics-python",
+    "category": "informatics",
+    "title": "Lập trình Python cơ bản",
+    "summary": "Biến, kiểu dữ liệu, rẽ nhánh, lặp, hàm và kiểm thử chương trình.",
+    "estimatedMinutes": 25,
+    "sections": [
+      {
+        "id": "informatics-python-1",
+        "title": "Mô hình giải bài toán",
+        "body": "Xác định dữ liệu vào, dữ liệu ra, điều kiện và các trường hợp biên trước khi viết mã. Sau đó chọn cấu trúc điều khiển phù hợp.",
+        "keyPoints": ["Input", "Process", "Output", "Trường hợp biên"]
+      },
+      {
+        "id": "informatics-python-2",
+        "title": "Các cấu trúc thường gặp",
+        "body": "Nắm chắc biến, số và chuỗi, danh sách, câu lệnh if, vòng lặp for/while, hàm và cách đọc lỗi. Luôn kiểm thử bằng dữ liệu đơn giản trước.",
+        "keyPoints": ["Biến", "Rẽ nhánh", "Vòng lặp", "Hàm"]
+      },
+      {
+        "id": "informatics-python-3",
+        "title": "Khi trình bày trong vòng 2",
+        "body": "Không chỉ đọc mã lệnh. Cần giải thích mục tiêu, ý tưởng thuật toán, hoạt động học sinh và cách đánh giá sản phẩm.",
+        "keyPoints": ["Ý tưởng", "Minh họa", "Đánh giá sản phẩm"]
+      }
+    ],
+    "source": "Nội dung chuyên môn Tin học THCS/THPT"
+  },
+  {
+    "id": "informatics-digital-safety",
+    "category": "informatics",
+    "title": "An toàn và văn hóa số",
+    "summary": "Bảo vệ tài khoản, dữ liệu cá nhân và hướng dẫn học sinh ứng xử có trách nhiệm.",
+    "estimatedMinutes": 14,
+    "sections": [
+      {
+        "id": "informatics-digital-safety-1",
+        "title": "Nguyên tắc bảo vệ tài khoản",
+        "body": "Dùng mật khẩu riêng, xác thực nhiều yếu tố, không chia sẻ mã xác thực và kiểm tra địa chỉ trước khi đăng nhập.",
+        "keyPoints": ["Mật khẩu mạnh", "Xác thực nhiều yếu tố", "Nhận diện lừa đảo"]
+      },
+      {
+        "id": "informatics-digital-safety-2",
+        "title": "Dạy học sinh về dữ liệu",
+        "body": "Học sinh cần biết dữ liệu cá nhân có giá trị, hiểu quyền riêng tư và biết báo cáo nội dung hoặc hành vi gây hại.",
+        "keyPoints": ["Quyền riêng tư", "Dấu vết số", "Báo cáo nội dung xấu"]
+      }
+    ],
+    "source": "Nội dung năng lực số và an toàn thông tin"
+  }
+]

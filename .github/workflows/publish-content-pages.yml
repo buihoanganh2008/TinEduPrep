@@ -1,0 +1,52 @@
+name: Publish TinEduPrep content
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "ContentFeed/**"
+      - "TinEduPrep/Resources/*.json"
+      - ".github/workflows/publish-content-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepare content site
+        shell: bash
+        run: |
+          mkdir -p _site/content
+          cp ContentFeed/manifest.json _site/content/manifest.json
+          cp TinEduPrep/Resources/lessons.json _site/content/lessons.json
+          cp TinEduPrep/Resources/questions.json _site/content/questions.json
+          cp TinEduPrep/Resources/practical_cases.json _site/content/practical_cases.json
+          printf '%s\n' '<!doctype html><html lang="vi"><head><meta charset="utf-8"><title>TinEduPrep Content</title></head><body><h1>TinEduPrep Content</h1><p>Content feed for the TinEduPrep iOS app.</p></body></html>' > _site/index.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "lessons": "lessons.json",
+  "questions": "questions.json",
+  "practicalCases": "practical_cases.json"
+}

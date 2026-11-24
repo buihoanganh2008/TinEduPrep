@@ -1,0 +1,158 @@
+[
+  {
+    "id": "q-general-001",
+    "category": "general",
+    "prompt": "Khi ôn thông tin tuyển dụng, nguồn nào cần được ưu tiên xác minh?",
+    "choices": [
+      { "id": "a", "text": "Thông báo chính thức của cơ quan tuyển dụng", "isCorrect": true },
+      { "id": "b", "text": "Bài đăng không có nguồn dẫn", "isCorrect": false },
+      { "id": "c", "text": "Bình luận trên mạng xã hội", "isCorrect": false },
+      { "id": "d", "text": "Đề thi truyền miệng", "isCorrect": false }
+    ],
+    "explanation": "Thông báo chính thức là căn cứ để xác định chỉ tiêu, điều kiện, thời gian và nội dung thi.",
+    "difficulty": "Cơ bản"
+  },
+  {
+    "id": "q-general-002",
+    "category": "general",
+    "prompt": "Một cách học văn bản pháp luật hiệu quả là gì?",
+    "choices": [
+      { "id": "a", "text": "Chỉ học thuộc số điều", "isCorrect": false },
+      { "id": "b", "text": "Kết hợp từ khóa, tình huống và điểm dễ nhầm", "isCorrect": true },
+      { "id": "c", "text": "Chỉ đọc phần mở đầu", "isCorrect": false },
+      { "id": "d", "text": "Bỏ qua văn bản sửa đổi", "isCorrect": false }
+    ],
+    "explanation": "Kết hợp nội dung và tình huống giúp nhớ lâu và vận dụng tốt hơn.",
+    "difficulty": "Cơ bản"
+  },
+  {
+    "id": "q-general-003",
+    "category": "general",
+    "prompt": "Khi có văn bản mới sửa đổi quy định cũ, thí sinh nên làm gì?",
+    "choices": [
+      { "id": "a", "text": "Chỉ học bản cũ vì dễ nhớ hơn", "isCorrect": false },
+      { "id": "b", "text": "Đối chiếu điểm mới và xác định văn bản đang áp dụng", "isCorrect": true },
+      { "id": "c", "text": "Bỏ qua cả hai văn bản", "isCorrect": false },
+      { "id": "d", "text": "Chờ thông tin truyền miệng", "isCorrect": false }
+    ],
+    "explanation": "Quy định có thể thay đổi, vì vậy cần xác định văn bản và thời điểm áp dụng.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "id": "q-pedagogy-001",
+    "category": "pedagogy",
+    "prompt": "Một yêu cầu cần đạt tốt nên có đặc điểm nào?",
+    "choices": [
+      { "id": "a", "text": "Có thể quan sát và đánh giá được", "isCorrect": true },
+      { "id": "b", "text": "Chỉ mô tả hoạt động của giáo viên", "isCorrect": false },
+      { "id": "c", "text": "Không cần gắn với sản phẩm", "isCorrect": false },
+      { "id": "d", "text": "Càng chung chung càng tốt", "isCorrect": false }
+    ],
+    "explanation": "Yêu cầu cần đạt cần mô tả được kết quả học sinh có thể thể hiện và đánh giá.",
+    "difficulty": "Cơ bản"
+  },
+  {
+    "id": "q-pedagogy-002",
+    "category": "pedagogy",
+    "prompt": "Trong một hoạt động dạy học, thành phần nào giúp xác định kết quả cần thu?",
+    "choices": [
+      { "id": "a", "text": "Sản phẩm học tập", "isCorrect": true },
+      { "id": "b", "text": "Màu slide", "isCorrect": false },
+      { "id": "c", "text": "Số lượng hiệu ứng", "isCorrect": false },
+      { "id": "d", "text": "Tên thiết bị", "isCorrect": false }
+    ],
+    "explanation": "Sản phẩm học tập và tiêu chí đánh giá làm rõ học sinh cần hoàn thành điều gì.",
+    "difficulty": "Cơ bản"
+  },
+  {
+    "id": "q-pedagogy-003",
+    "category": "pedagogy",
+    "prompt": "Khi xử lý tình huống học sinh vi phạm trước lớp, lựa chọn phù hợp nhất là gì?",
+    "choices": [
+      { "id": "a", "text": "Quy chụp ngay trước tập thể", "isCorrect": false },
+      { "id": "b", "text": "Ổn định lớp, trao đổi tôn trọng và theo dõi sau đó", "isCorrect": true },
+      { "id": "c", "text": "Bỏ qua mọi hành vi", "isCorrect": false },
+      { "id": "d", "text": "Đăng thông tin lên nhóm lớp", "isCorrect": false }
+    ],
+    "explanation": "Cách xử lý cần bảo vệ phẩm giá học sinh, giữ kỷ luật và hướng đến giáo dục.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "id": "q-informatics-001",
+    "category": "informatics",
+    "prompt": "Bước nào thường giúp bài toán lớn trở nên dễ xử lý hơn?",
+    "choices": [
+      { "id": "a", "text": "Phân rã bài toán thành các phần nhỏ", "isCorrect": true },
+      { "id": "b", "text": "Bỏ qua dữ liệu vào", "isCorrect": false },
+      { "id": "c", "text": "Viết mã ngay không cần phân tích", "isCorrect": false },
+      { "id": "d", "text": "Chỉ thử một trường hợp", "isCorrect": false }
+    ],
+    "explanation": "Phân rã là một thành phần quan trọng của tư duy máy tính.",
+    "difficulty": "Cơ bản"
+  },
+  {
+    "id": "q-informatics-002",
+    "category": "informatics",
+    "prompt": "Trong một bài toán lập trình, vì sao cần kiểm thử với trường hợp biên?",
+    "choices": [
+      { "id": "a", "text": "Để kiểm tra chương trình có xử lý được dữ liệu đặc biệt không", "isCorrect": true },
+      { "id": "b", "text": "Để chương trình dài hơn", "isCorrect": false },
+      { "id": "c", "text": "Để thay thế việc phân tích", "isCorrect": false },
+      { "id": "d", "text": "Để không cần giải thích thuật toán", "isCorrect": false }
+    ],
+    "explanation": "Trường hợp biên giúp phát hiện lỗi khi dữ liệu ở giới hạn hoặc có tính đặc biệt.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "id": "q-informatics-003",
+    "category": "informatics",
+    "prompt": "Hành vi nào giúp bảo vệ tài khoản tốt hơn?",
+    "choices": [
+      { "id": "a", "text": "Dùng một mật khẩu cho mọi dịch vụ", "isCorrect": false },
+      { "id": "b", "text": "Chia sẻ mã xác thực cho người quen", "isCorrect": false },
+      { "id": "c", "text": "Bật xác thực nhiều yếu tố và dùng mật khẩu riêng", "isCorrect": true },
+      { "id": "d", "text": "Lưu mật khẩu trong tin nhắn công khai", "isCorrect": false }
+    ],
+    "explanation": "Mật khẩu riêng và xác thực nhiều yếu tố làm giảm nguy cơ mất tài khoản.",
+    "difficulty": "Cơ bản"
+  },
+  {
+    "id": "q-practical-001",
+    "category": "practical",
+    "prompt": "Khi chuẩn bị trình bày vòng 2, nội dung nào nên xác định đầu tiên?",
+    "choices": [
+      { "id": "a", "text": "Yêu cầu cần đạt của vấn đề", "isCorrect": true },
+      { "id": "b", "text": "Hiệu ứng chuyển slide", "isCorrect": false },
+      { "id": "c", "text": "Màu nền bảng", "isCorrect": false },
+      { "id": "d", "text": "Số lượng ví dụ không giới hạn", "isCorrect": false }
+    ],
+    "explanation": "Yêu cầu cần đạt là cơ sở để xây dựng nội dung, hoạt động và cách đánh giá.",
+    "difficulty": "Cơ bản"
+  },
+  {
+    "id": "q-practical-002",
+    "category": "practical",
+    "prompt": "Một phần trình bày thực hành tốt nên thể hiện điều gì?",
+    "choices": [
+      { "id": "a", "text": "Kiến thức, kỹ năng hoạt động nghề nghiệp và cách tổ chức dạy học", "isCorrect": true },
+      { "id": "b", "text": "Chỉ đọc lại lý thuyết", "isCorrect": false },
+      { "id": "c", "text": "Chỉ trình chiếu nội dung", "isCorrect": false },
+      { "id": "d", "text": "Không cần liên hệ học sinh", "isCorrect": false }
+    ],
+    "explanation": "Vòng 2 đánh giá khả năng vận dụng kiến thức vào hoạt động nghề nghiệp.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "id": "q-practical-003",
+    "category": "practical",
+    "prompt": "Khi bị hỏi phản biện ngoài phần chuẩn bị, cách trả lời phù hợp là gì?",
+    "choices": [
+      { "id": "a", "text": "Bình tĩnh nhắc lại mục tiêu và giải thích lựa chọn sư phạm", "isCorrect": true },
+      { "id": "b", "text": "Trả lời thật nhanh dù chưa hiểu câu hỏi", "isCorrect": false },
+      { "id": "c", "text": "Tranh luận với người chấm", "isCorrect": false },
+      { "id": "d", "text": "Né tránh mọi câu hỏi", "isCorrect": false }
+    ],
+    "explanation": "Câu trả lời nên có căn cứ, mạch lạc và thể hiện khả năng tự điều chỉnh.",
+    "difficulty": "Vận dụng"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "case-algorithm",
+    "title": "Dạy thuật toán bằng tình huống gần gũi",
+    "category": "practical",
+    "scenario": "Bạn cần trình bày cách dạy khái niệm thuật toán cho học sinh mới bắt đầu học Tin học.",
+    "expectedOutcome": "Học sinh mô tả được thuật toán bằng các bước rõ ràng và kiểm thử được với một ví dụ khác.",
+    "preparationSteps": [
+      "Nêu bối cảnh và yêu cầu cần đạt.",
+      "Dùng một nhiệm vụ quen thuộc để dẫn nhập.",
+      "Cho học sinh phân rã nhiệm vụ thành các bước.",
+      "Yêu cầu nhóm kiểm thử và nhận xét kết quả.",
+      "Chốt khái niệm và giao bài vận dụng."
+    ],
+    "followUpQuestions": [
+      "Nếu học sinh đưa ra các bước chưa theo đúng thứ tự, bạn hỗ trợ thế nào?",
+      "Bạn đánh giá sản phẩm học tập dựa trên tiêu chí nào?"
+    ]
+  },
+  {
+    "id": "case-python",
+    "title": "Thiết kế hoạt động lập trình Python",
+    "category": "practical",
+    "scenario": "Bạn cần hướng dẫn học sinh viết chương trình dùng rẽ nhánh để giải quyết một bài toán đơn giản.",
+    "expectedOutcome": "Học sinh xác định được dữ liệu vào, điều kiện và viết được chương trình có kiểm thử.",
+    "preparationSteps": [
+      "Phân tích dữ liệu vào và dữ liệu ra.",
+      "Cho học sinh dự đoán kết quả với ví dụ mẫu.",
+      "Thiết kế mã giả trước khi viết mã Python.",
+      "Cho học sinh chạy thử và sửa lỗi.",
+      "Tổ chức chia sẻ các cách giải."
+    ],
+    "followUpQuestions": [
+      "Bạn hỗ trợ học sinh không gõ được mã như thế nào?",
+      "Làm sao đánh giá cả quá trình chứ không chỉ kết quả cuối?"
+    ]
+  },
+  {
+    "id": "case-digital-safety",
+    "title": "Giáo dục an toàn thông tin",
+    "category": "practical",
+    "scenario": "Một học sinh chia sẻ mật khẩu tài khoản học tập trong nhóm lớp để nhờ bạn đăng nhập hộ.",
+    "expectedOutcome": "Học sinh nhận diện được rủi ro và biết cách bảo vệ tài khoản, dữ liệu cá nhân.",
+    "preparationSteps": [
+      "Đặt câu hỏi gợi mở về hậu quả có thể xảy ra.",
+      "Phân tích sự khác nhau giữa hỗ trợ và chia sẻ bí mật.",
+      "Hướng dẫn đổi mật khẩu và báo cáo sự cố.",
+      "Cho nhóm xây dựng bộ quy tắc an toàn số.",
+      "Kiểm tra bằng một tình huống tương tự."
+    ],
+    "followUpQuestions": [
+      "Bạn xử lý thế nào để học sinh không cảm thấy bị phê bình trước lớp?",
+      "Bạn phối hợp với nhà trường và phụ huynh ra sao nếu tài khoản bị xâm nhập?"
+    ]
+  },
+  {
+    "id": "case-classroom",
+    "title": "Xử lý chênh lệch năng lực trong phòng máy",
+    "category": "practical",
+    "scenario": "Trong cùng một tiết học, một nhóm học sinh hoàn thành sớm còn một nhóm khác chưa thao tác được các bước cơ bản.",
+    "expectedOutcome": "Giáo viên tổ chức được hỗ trợ phân hóa, vẫn bảo đảm mục tiêu chung và khuyến khích hợp tác.",
+    "preparationSteps": [
+      "Xác định mức tối thiểu và nhiệm vụ mở rộng.",
+      "Ghép cặp hỗ trợ có kiểm soát.",
+      "Chuẩn bị phiếu hướng dẫn từng bước.",
+      "Theo dõi nhóm yếu bằng câu hỏi gợi ý.",
+      "Cho nhóm khá trình bày cách giải và tự đánh giá."
+    ],
+    "followUpQuestions": [
+      "Làm thế nào để học sinh khá không làm thay bạn?",
+      "Bạn kiểm tra tiến bộ của nhóm yếu bằng minh chứng nào?"
+    ]
+  }
+]
