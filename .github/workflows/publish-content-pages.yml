@@ -43,7 +43,7 @@ jobs:
           printf '%s\n' '<!doctype html><html lang="vi"><head><meta charset="utf-8"><title>TinEduPrep Content</title></head><body><h1>TinEduPrep Content</h1><p>Content feed for the TinEduPrep iOS app.</p></body></html>' > _site/index.html
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
